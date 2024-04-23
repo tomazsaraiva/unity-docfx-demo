@@ -1,0 +1,8 @@
+### YamlMime:TableOfContent
+items:
+- uid: DummyNamespace
+  name: DummyNamespace
+  items:
+  - uid: DummyNamespace.DemoComponent
+    name: DemoComponent
+memberLayout: SamePage

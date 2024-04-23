@@ -1,0 +1,21 @@
+### YamlMime:ManagedReference
+items:
+- uid: DummyNamespace
+  commentId: N:DummyNamespace
+  id: DummyNamespace
+  children:
+  - DummyNamespace.DemoComponent
+  langs:
+  - csharp
+  - vb
+  name: DummyNamespace
+  nameWithType: DummyNamespace
+  fullName: DummyNamespace
+  type: Namespace
+references:
+- uid: DummyNamespace.DemoComponent
+  commentId: T:DummyNamespace.DemoComponent
+  href: DummyNamespace.DemoComponent.html
+  name: DemoComponent
+  nameWithType: DemoComponent
+  fullName: DummyNamespace.DemoComponent

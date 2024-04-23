@@ -1,0 +1,37 @@
+### YamlMime:ManagedReference
+items:
+- uid: DummyNamespace.DemoComponent
+  commentId: T:DummyNamespace.DemoComponent
+  id: DemoComponent
+  parent: DummyNamespace
+  children: []
+  langs:
+  - csharp
+  - vb
+  name: DemoComponent
+  nameWithType: DemoComponent
+  fullName: DummyNamespace.DemoComponent
+  type: Class
+  source:
+    remote:
+      path: Assets/DemoComponent.cs
+      branch: master
+      repo: https://github.com/tomazsaraiva/unity-docfx-demo.git
+    id: DemoComponent
+    path: ../Assets/DemoComponent.cs
+    startLine: 9
+  namespace: DummyNamespace
+  summary: DemoComponent Summary
+  example: []
+  syntax:
+    content: 'public class DemoComponent : MonoBehaviour'
+    content.vb: Public Class DemoComponent Inherits MonoBehaviour
+  inheritance:
+  - System.Object
+references:
+- uid: DummyNamespace
+  commentId: N:DummyNamespace
+  href: DummyNamespace.html
+  name: DummyNamespace
+  nameWithType: DummyNamespace
+  fullName: DummyNamespace
