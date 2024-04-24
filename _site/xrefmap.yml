@@ -1,0 +1,15 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: DummyNamespace
+  name: DummyNamespace
+  href: api/DummyNamespace.html
+  commentId: N:DummyNamespace
+  fullName: DummyNamespace
+  nameWithType: DummyNamespace
+- uid: DummyNamespace.DemoComponent
+  name: DemoComponent
+  href: api/DummyNamespace.DemoComponent.html
+  commentId: T:DummyNamespace.DemoComponent
+  fullName: DummyNamespace.DemoComponent
+  nameWithType: DemoComponent
