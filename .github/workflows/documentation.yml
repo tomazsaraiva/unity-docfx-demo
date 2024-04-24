@@ -36,7 +36,8 @@ jobs:
           uses: actions/upload-artifact@v3
           with:
             name: _site
-            path: _site
+            path: Documentation/_site/
+            if-no-files-found: error
 
   deploy:
     needs: build
