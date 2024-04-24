@@ -2,7 +2,7 @@
   "api/DummyNamespace.DemoComponent.html": {
     "href": "api/DummyNamespace.DemoComponent.html",
     "title": "Class DemoComponent | Docfx Demo",
-    "keywords": "Class DemoComponent Namespace DummyNamespace DemoComponent Summary public class DemoComponent : MonoBehaviour Inheritance System.Object DemoComponent"
+    "keywords": "Class DemoComponent DemoComponent Summary Inheritance System.Object DemoComponent Namespace: DummyNamespace Assembly: .dll Syntax public class DemoComponent : MonoBehaviour"
   },
   "api/DummyNamespace.html": {
     "href": "api/DummyNamespace.html",

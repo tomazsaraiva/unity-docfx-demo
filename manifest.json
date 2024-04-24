@@ -37,9 +37,6 @@
       "output": {
         ".html": {
           "relative_path": "api/toc.html"
-        },
-        ".json": {
-          "relative_path": "api/toc.json"
         }
       },
       "version": ""
@@ -70,9 +67,6 @@
       "output": {
         ".html": {
           "relative_path": "docs/toc.html"
-        },
-        ".json": {
-          "relative_path": "docs/toc.json"
         }
       },
       "version": ""
@@ -103,9 +97,6 @@
       "output": {
         ".html": {
           "relative_path": "toc.html"
-        },
-        ".json": {
-          "relative_path": "toc.json"
         }
       },
       "version": ""
