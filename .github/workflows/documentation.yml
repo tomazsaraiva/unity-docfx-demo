@@ -26,8 +26,8 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
 
-      - name: docfx-action
-        uses: nikeee/docfx-action@v1.0.0
+      - name: Generate Documentation
+        uses: nunit/docfx-action@v2.4.0
         with:
             args: Documentation/docfx.json
         
@@ -35,7 +35,7 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3.6.1
         with:
             github_token: ${{ secrets.GITHUB_TOKEN }}
-            publish_dir: ./docs/_site
+            publish_dir: ./Documentation/_site
 
 #   build:
 #     runs-on: windows-latest
