@@ -78,6 +78,16 @@
       "version": ""
     },
     {
+      "type": "Resource",
+      "source_relative_path": "images/image_test.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/image_test.png"
+        }
+      },
+      "version": ""
+    },
+    {
       "type": "Conceptual",
       "source_relative_path": "index.md",
       "output": {
