@@ -31,7 +31,6 @@
                 ]
             }
         ],
-        "output": "_site",
         "dest": "_site",
         "template": [
             "default",

@@ -49,7 +49,6 @@ jobs:
       uses: actions/download-artifact/@v3
       with: 
         name: _site
-        path: ~/
         
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
